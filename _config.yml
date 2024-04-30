@@ -47,7 +47,7 @@ linkedin_username: meczy-gonzález-jimenéz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Software developer with over four years of experience in web development, specializing in full stack. I am an expert in responsive web development using technologies such as Liferay, Adobe Commerce and .Net, with a focus on Cx discipline.
+  Software developer with over four years of experience in web development, specializing in full stack. I am an expert in responsive web development using technologies such as Liferay, Adobe Commerce and .Net, with a focus on Cx discipline.
   I am most skilled in: <mark>Java</mark> and <mark>Eating Pizza</mark>
 
 content:
