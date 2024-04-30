@@ -83,7 +83,7 @@ content:
 
   - title: Skills and Certifications
     layout: text
-     content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs
       Skills
         - Visual Basic, C, C++, Java, .Net, JavaScript, Python, Swift HTML, CSS, Linux, WordPress, Adobe Commerce.
         - JavaScript, jQuery, TypeScript HTML, HTML5, CSS, CSS3, web programming skills, e-commerce, teamwork, verbal communication, cross-browser compatibility, web UI design, security principles, object-oriented design, API.
