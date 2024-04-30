@@ -48,35 +48,17 @@ linkedin_username: meczy-gonzález-jimenéz
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 Software developer with over four years of experience in web development, specializing in full stack. I am an expert in responsive web development using technologies such as Liferay, Adobe Commerce and .Net, with a focus on Cx discipline. I am committed to delivering high-quality projects using agile methodologies such as Scrum and GDD. I am proud of my ability to collaborate effectively in multidisciplinary teams. I am passionate about continuing to learn and grow professionally in a dynamic and challenging environment.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/Meczy
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Imagineer Costumer Experience
-        link: boringcompany.com
-        # link_text: boringcompany.com
+        title: Imagineer Customer Experience
+       # link: 
+        # link_text: 
         sub_title: Software Developer
         caption: April 2019 - January 2024
         quote: >
@@ -96,8 +78,7 @@ content:
         title: Universidad Nacional de Costa Rica
         caption: 2019
         sub_title: Information Systems Engineering with a Bachelor's Degree
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      #  quote: >
         description: | # this will include new lines to allow paragraphs
           While at the National University, I was involved in the design and development of an entry and exit control system for visitors to the company Coopetrajes del Poás RL, which spanned approximately 18 months from February 2018 to June 2019. The project utilized C# as the programming language, MySQL as the database and the Scrum methodology.
 
