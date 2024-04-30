@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: meczy/meczy
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -47,7 +47,7 @@ linkedin_username: meczy-gonzález-jimenéz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Software developer with over four years of experience in web development, specializing in full stack. I am an expert in responsive web development using technologies such as Liferay, Adobe Commerce and .Net, with a focus on Cx discipline. I am committed to delivering high-quality projects using agile methodologies such as Scrum and GDD. I am proud of my ability to collaborate effectively in multidisciplinary teams. I am passionate about continuing to learn and grow professionally in a dynamic and challenging environment.
+Software developer with over four years of experience in web development, specializing in full stack. I am an expert in responsive web development using technologies such as Liferay, Adobe Commerce and .Net, with a focus on Cx discipline.
   I am most skilled in: <mark>Java</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -61,8 +61,7 @@ content:
         # link_text: 
         sub_title: Software Developer
         caption: April 2019 - January 2024
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+       # quote: >
         description: | # this will include new lines to allow paragraphs
             ● Development of responsive websites using Liferay and e-commerce with Adobe Commerce, focusing on the Customer Experience (Cx) discipline.
             ● Maintain and continually update websites.
